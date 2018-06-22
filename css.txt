@@ -1,0 +1,77 @@
+body {
+	background-color: dodgerblue;
+	border: 1px solid lightgray;
+	padding: 30px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: lightgray;
+	font-family: ariel;
+	font-size: 40px;
+	text-align: center;
+	}
+
+h3 {
+	color: lightgray;
+	font-family:ariel;
+	font-size: 20px;
+	text-align: center;
+	}
+
+p {
+	color: light grey
+	font-family:ariel;
+	font-size: 12px;
+	}
+	
+nv {
+dispay: list-item;
+]
+
+ul {
+list-style-type: none;
+margin: .05;
+padding: 0;
+overflow: initial;
+background-color: aqua;
+border-radius: 5px;
+li {
+foat: left;
+li a {
+display: initial;
+color: black;
+text-align; left;
+padding: 12px 14px;
+text-decoration: none;
+}
+li a:hover:not(.active) {
+background-color: aliceblue;
+}
+.active{
+background-color: blue;
+}
+
+aside{
+float: right; 
+width; 450px;
+text-align: justify;
+}
+
+#dog1 {
+float: right;
+margin: 5px;
+}
+section{
+float: left;
+width: 450 px;
+text-align: justify;
+}
+
+footer{
+width: 850px;
+text-align: center
+}
+
+
+	

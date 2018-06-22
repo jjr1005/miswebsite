@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<title>Durham House of Pets</title>
+		<link href="main.css" rel="stylesheet" />
+		</head>
+		<body>
+			<header>
+					<h1>Durham House of Pets</h1>
+					<h3>About us</h3>
+			</header>
+			<section>
+				<p> Our shop contains many homemade products that are created with special ingredients that will keep your lovely feline both healthy and happy. We also give 10% of our earnings to local animal shelters. Jess ws born and raised in Durham and has a dream to keep every animal safe and healthy.
+			<img id="dog2" src="dog2.jpg"/>
+			</p>
+			</secton>
+			<aside>
+			<img id="dog1" src="dog1.jpg"/>
+			Durham House of Pets was founded by Jess Roselund in 2002. Growing up, Jess had 5 dogs, 2 cats and 3 birds and always knew that she had a passion for animals. In June 2002, she started to create her own pet store. It started off very small where she would only sell her homemade dog treats, but now it has opened up to a wide variety of products including pet foods, toys and needs. 
+			Our shop contains many homemade products that are created with special ingredients that will keep your lovely feline both healthy and happy. We also give 10% of our earnings to local animal shelters. Jess ws born and raised in Durham and has a dream to keep every animal safe and healthy.
+			</aside>
+			<nav>
+				<ul>
+				<li><a href="index.html">About Us</a></li>
+				<li><a href="employees.html">Our Team</a></li>
+				<li><a href="products.html">Our Products</a></li>
+				<li><a href="dogsupplies.html">Dog Supplies</a></li>
+				<li><a href="catsupplies.html">Cat Supplies</a></li>
+				<li><a href="fishsupllies.html">Snake Supplies</a></li
+				<li><a href="policies.html"> Policies</a></li
+				<li><a href="contact_us.html">Contact Us</a></li>
+				<li><a href="http://misdurhamhouseofpets.com">Durham House of Pets</a><//li></ul>
+			<footer>
+				<p> Since June 2002
+				</p>
+			</footer>
+		</body>
+	</html>
